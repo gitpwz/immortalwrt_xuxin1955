@@ -5,7 +5,7 @@
 #include "msm8916-ufi.dtsi"
 
 / {
-	model = "ufi-001c 4G Modem Stick";
+	model = "ufi-001C/003 4G Modem Stick";
 	compatible = "thwc,ufi001c", "qcom,msm8916";
 	leds: leds {
 		sim_sel {
